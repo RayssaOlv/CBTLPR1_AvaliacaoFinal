@@ -13,15 +13,15 @@ import java.util.*;
  * * Nomes: João Victor Lima Venceslau - Rayssa Silva de Oliveira
 /*
 2)Crie a classe ConsultaAgendada conforme especificado abaixo (2,0):
-┌──────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────────────────────┐
 |                         ConsultaAgendada                                         |
-├──────────────────────────────────────────────────┤
+├──────────────────────────────────────────────────────────────────────────────────┤
 |   - data: Data                                                                   |
 |   - hora: Hora                                                                   |
 |   - nomePaciente: String                                                         |
 |   - quantidade: int (static)                                                     |
 |   - nomeMedico: String                                                           |
-├──────────────────────────────────────────────────┤
+├──────────────────────────────────────────────────────────────────────────────────┤
 |+ ConsultaAgendada ()                                                             |
 |+ ConsultaAgendada (int h, int mi, int s, int d, int m, int a, String p, String m)|
 |+ ConsultaAgendada (Data d, Hora h, String p, String m)                           |
@@ -38,7 +38,7 @@ import java.util.*;
 |+ getHora(): String                                                               |
 |+ getNomePaciente (): String                                                      |
 |+ getNomeMedico(): String                                                         |
-└──────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────────────────┘
 
 • O construtor ConsultaAgendada deve nos permitir a digitação dos valores de data,
 hora, nome do paciente e do médico;
