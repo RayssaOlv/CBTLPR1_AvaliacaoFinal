@@ -1,0 +1,41 @@
+Propriedades de p1:
+Data: 15/06/24
+Hora: 10:30:00
+Paciente: Rayssa Oliveira
+Medico: Dr.Venceslau
+
+Instanciando p2 via teclado:
+Digite o ano: 2026
+Digite o mes (1-12): 6
+Digite o dia: 24
+Digite a hora (0-23): 15
+Digite o minuto (0-59): 20
+Digite o segundo (0-59): 10
+Nome do Paciente: Marcelo
+Nome do Medico: Dr.Jonas
+
+Propriedades de p2:
+Data: 24/06/26
+Hora: 15:20:10
+Paciente: Marcelo
+Medico: Dr.Jonas
+
+Alterando p1 via teclado:
+Digite o ano: 2024
+Digite o mes (1-12): 15
+Mes invalido.
+Digite o mes (1-12): 12
+Digite o dia: 10
+Digite a hora (0-23): 20
+Digite o minuto (0-59): 45
+Digite o segundo (0-59): 12
+Nome do Paciente: Julia
+Nome do Medico: Dr.Shawn
+
+Propriedades de p1 atualizadas:
+Data: 10/12/24
+Hora: 20:45:12
+Paciente: Julia
+Medico: Dr.Shawn
+
+Quantidade final de consultas: 2
